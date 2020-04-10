@@ -1,0 +1,12 @@
+# Result files
+*_result_*_scraper.csv
+
+# Virtualenv
+env/*
+
+# Python
+__pycache__/*
+*.pyc
+
+# IDE
+*.vscode/*
